@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-29T19:52:30.271Z",
+  "generatedAt": "2026-06-29T22:50:45.351Z",
   "bracketId": "14910295009695382",
   "roundSlug": "1",
+  "divergent": false,
   "leaderboard": {
-    "live": [
+    "projected": [
       {
         "username": "CEMARSLAN",
         "rank": 1,
@@ -11,12 +12,12 @@
         "matchPoints": 0,
         "knockoutPoints": 167,
         "standingsPoints": 699,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 86,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 7679,
+        "accuracyScoreX100": 3092,
+        "boldnessScoreX100": 2118
       },
       {
         "username": "Jenny",
@@ -25,12 +26,12 @@
         "matchPoints": 0,
         "knockoutPoints": 168,
         "standingsPoints": 640,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 76,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6786,
+        "accuracyScoreX100": 2885,
+        "boldnessScoreX100": 2465
       },
       {
         "username": "mimamax",
@@ -39,12 +40,12 @@
         "matchPoints": 0,
         "knockoutPoints": 170,
         "standingsPoints": 628,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 174,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 76,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6786,
+        "accuracyScoreX100": 2849,
+        "boldnessScoreX100": 2396
       },
       {
         "username": "finJJx",
@@ -53,12 +54,12 @@
         "matchPoints": 0,
         "knockoutPoints": 141,
         "standingsPoints": 612,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 79,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 7054,
+        "accuracyScoreX100": 2688,
+        "boldnessScoreX100": 1528
       },
       {
         "username": "Octopus",
@@ -67,12 +68,12 @@
         "matchPoints": 0,
         "knockoutPoints": 142,
         "standingsPoints": 590,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 74,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6607,
+        "accuracyScoreX100": 2613,
+        "boldnessScoreX100": 1632
       },
       {
         "username": "FingerChipmunk",
@@ -81,12 +82,12 @@
         "matchPoints": 0,
         "knockoutPoints": 143,
         "standingsPoints": 577,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 78,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6964,
+        "accuracyScoreX100": 2571,
+        "boldnessScoreX100": 1215
       },
       {
         "username": "ceiso",
@@ -95,12 +96,12 @@
         "matchPoints": 0,
         "knockoutPoints": 139,
         "standingsPoints": 567,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 73,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6518,
+        "accuracyScoreX100": 2521,
+        "boldnessScoreX100": 2361
       },
       {
         "username": "fucbol",
@@ -109,12 +110,12 @@
         "matchPoints": 0,
         "knockoutPoints": 139,
         "standingsPoints": 561,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 70,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6250,
+        "accuracyScoreX100": 2499,
+        "boldnessScoreX100": 1910
       },
       {
         "username": "Geraldo",
@@ -123,12 +124,12 @@
         "matchPoints": 0,
         "knockoutPoints": 119,
         "standingsPoints": 575,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 72,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 6429,
+        "accuracyScoreX100": 2478,
+        "boldnessScoreX100": 1354
       },
       {
         "username": "Huseyin",
@@ -137,12 +138,12 @@
         "matchPoints": 0,
         "knockoutPoints": 119,
         "standingsPoints": 527,
-        "predictionsCorrect": 0,
-        "predictionsResolved": 0,
-        "predictionsMade": 176,
-        "predictionScoreX100": null,
-        "accuracyScoreX100": null,
-        "boldnessScoreX100": null
+        "predictionsCorrect": 57,
+        "predictionsResolved": 112,
+        "predictionsMade": 144,
+        "predictionScoreX100": 5089,
+        "accuracyScoreX100": 2306,
+        "boldnessScoreX100": 2639
       }
     ],
     "final": [
@@ -290,7 +291,7 @@
   },
   "participants": {
     "CEMARSLAN": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -337,8 +338,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 1,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 866,
+          "isProjected": true,
+          "projectedPoints": 866,
           "finalPoints": 866,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -3320,8 +3321,8 @@
           "boldPredictionsMaxPoints": 114,
           "userRank": 1,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 866,
+          "isProjected": false,
+          "projectedPoints": 866,
           "finalPoints": 866,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -6258,7 +6259,7 @@
       }
     },
     "Jenny": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -6305,8 +6306,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 2,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 808,
+          "isProjected": true,
+          "projectedPoints": 808,
           "finalPoints": 808,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -9288,8 +9289,8 @@
           "boldPredictionsMaxPoints": 104,
           "userRank": 2,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 808,
+          "isProjected": false,
+          "projectedPoints": 808,
           "finalPoints": 808,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -12226,7 +12227,7 @@
       }
     },
     "mimamax": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -12273,8 +12274,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 3,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 798,
+          "isProjected": true,
+          "projectedPoints": 798,
           "finalPoints": 798,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -15256,8 +15257,8 @@
           "boldPredictionsMaxPoints": 219,
           "userRank": 3,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 798,
+          "isProjected": false,
+          "projectedPoints": 798,
           "finalPoints": 798,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -18194,7 +18195,7 @@
       }
     },
     "finJJx": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -18241,8 +18242,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 4,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 753,
+          "isProjected": true,
+          "projectedPoints": 753,
           "finalPoints": 753,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -21224,8 +21225,8 @@
           "boldPredictionsMaxPoints": 50,
           "userRank": 4,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 753,
+          "isProjected": false,
+          "projectedPoints": 753,
           "finalPoints": 753,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -24162,7 +24163,7 @@
       }
     },
     "Octopus": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -24209,8 +24210,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 5,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 732,
+          "isProjected": true,
+          "projectedPoints": 732,
           "finalPoints": 732,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -27192,8 +27193,8 @@
           "boldPredictionsMaxPoints": 119,
           "userRank": 5,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 732,
+          "isProjected": false,
+          "projectedPoints": 732,
           "finalPoints": 732,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -30130,7 +30131,7 @@
       }
     },
     "FingerChipmunk": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -30177,8 +30178,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 6,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 720,
+          "isProjected": true,
+          "projectedPoints": 720,
           "finalPoints": 720,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -33160,8 +33161,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 6,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 720,
+          "isProjected": false,
+          "projectedPoints": 720,
           "finalPoints": 720,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -36098,7 +36099,7 @@
       }
     },
     "ceiso": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -36145,8 +36146,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 7,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 706,
+          "isProjected": true,
+          "projectedPoints": 706,
           "finalPoints": 706,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -39128,8 +39129,8 @@
           "boldPredictionsMaxPoints": 165,
           "userRank": 7,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 706,
+          "isProjected": false,
+          "projectedPoints": 706,
           "finalPoints": 706,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -42066,7 +42067,7 @@
       }
     },
     "fucbol": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -42113,8 +42114,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 8,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 700,
+          "isProjected": true,
+          "projectedPoints": 700,
           "finalPoints": 700,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -45096,8 +45097,8 @@
           "boldPredictionsMaxPoints": 75,
           "userRank": 8,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 700,
+          "isProjected": false,
+          "projectedPoints": 700,
           "finalPoints": 700,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -48034,7 +48035,7 @@
       }
     },
     "Geraldo": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -48081,8 +48082,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 9,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 694,
+          "isProjected": true,
+          "projectedPoints": 694,
           "finalPoints": 694,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -51064,8 +51065,8 @@
           "boldPredictionsMaxPoints": 20,
           "userRank": 9,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 694,
+          "isProjected": false,
+          "projectedPoints": 694,
           "finalPoints": 694,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
@@ -54002,7 +54003,7 @@
       }
     },
     "Huseyin": {
-      "live": {
+      "projected": {
         "summary": {
           "predictionRoundId": 5,
           "predictionRoundName": {
@@ -54049,8 +54050,8 @@
           "boldPredictionsMaxPoints": 0,
           "userRank": 10,
           "participantCount": 10,
-          "isProvisional": true,
-          "provisionalPoints": 646,
+          "isProjected": true,
+          "projectedPoints": 646,
           "finalPoints": 646,
           "lastUpdated": "2026-06-29T18:32:21.713Z"
         },
@@ -57032,8 +57033,8 @@
           "boldPredictionsMaxPoints": 230,
           "userRank": 10,
           "participantCount": 10,
-          "isProvisional": false,
-          "provisionalPoints": 646,
+          "isProjected": false,
+          "projectedPoints": 646,
           "finalPoints": 646,
           "lastUpdated": "2026-06-29T18:32:21.137Z"
         },
